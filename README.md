@@ -253,7 +253,7 @@ Get authentic, factory-tested boards shipped directly from Porto, Portugal:
 👉 **[Official Achiraware Store — Buy ACH-ESP32-C3F4](https://achiraware.com/product/ach-esp32-c3f4-prototype-board/)**
 
 - **Worldwide & Fast EU Shipping:** Shipped via registered mail / courier across Europe and globally.
-- **Support & Inquiries:** [info@achiraware.com](mailto:info@achiraware.com) | [achiraware.com](https://achiraware.com)
+- **Support & Inquiries:** [customerservice@achiraware.com](mailto:customerservice@achiraware.com) | [achiraware.com](https://achiraware.com)
 
 ---
 
